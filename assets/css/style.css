@@ -1,0 +1,114 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-align: center;
+}
+
+body {
+    font-family: "Merriweather", serif;
+    background-color: #1B262C;
+    color: #3282B8;
+}
+
+/* Intro */
+
+#intro {
+    height: 100vh;
+    padding-top: 150px;
+}
+
+#intro h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+}
+
+#intro h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+
+}
+
+#intro span {
+    text-decoration: underline;
+}
+
+#intro img {
+    height: 350px;
+    width: 350px;
+    margin: 75px auto 0px auto;
+}
+
+
+/* My-Info */
+
+#my-info {
+    background-color: #0F4C75;
+    width: 100%;
+}
+
+#my-info .profile-picture {
+    height: 200px;
+    border-radius: 50%;
+    margin: 40px auto;
+}
+
+#my-info .info-h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+#my-info .info-p {
+    font-size: 20px;
+    margin: 2rem auto;
+}
+
+#my-info .my-skills {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+#my-info h3, h4 {
+    font-family: "Montserrat", sans-serif;
+}
+
+#my-info .hr-line {
+    border: dotted white 10px;
+    border-bottom: none;
+    width: 25%;
+    margin: 50px auto;
+}
+
+#my-info hr {
+    border: solid white 2.5px;
+    margin: 50px auto;
+}
+
+#my-info .contact {
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: 0px auto 50px auto;
+}
+
+#my-info .contact-sub {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px auto 50px auto;
+}
+
+#my-info .contact-text {
+    font-size: 20px;
+    margin: 0px auto 50px auto;
+    width: 50%;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #BBE1FA;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
