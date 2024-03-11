@@ -15,7 +15,7 @@ body {
 
 #intro {
     height: 100vh;
-    padding-top: 150px;
+    padding-top: 120px;
 }
 
 #intro h1 {
@@ -34,9 +34,9 @@ body {
 }
 
 #intro img {
-    height: 400px;
-    width: 400px;
-    margin: 75px auto 0px auto;
+    height: 450px;
+    width: 450px;
+    margin: 40px auto 0px auto;
 }
 
 
